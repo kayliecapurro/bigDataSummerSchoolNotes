@@ -1,0 +1,1 @@
+So far we have learned to initialize repositories, add and commit files as well as changes to the files, and check git status
