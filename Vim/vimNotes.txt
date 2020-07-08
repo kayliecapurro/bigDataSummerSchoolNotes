@@ -1,0 +1,6 @@
+vim can be used to quickly edit text files 
+:q to quit
+:w to save
+gg moves top file
+G moves bottom
+:42 line 42
